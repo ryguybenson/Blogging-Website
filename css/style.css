@@ -10,10 +10,25 @@ html {
 .first-post img {
 width: 50%;
 height: 30%;
-
 }
 
 .first-post {
+font-style: italic;
+font-size: 20px;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+.second-post img {
+width: 50%;
+height: 30%;
+
+}
 
 
+.second-post {
+font-style: italic;
+font-size: 20px;
+padding-top: 25px;
+padding-bottom: 25px;
 }
