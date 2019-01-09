@@ -8,9 +8,23 @@ html {
   color: #0AFDFF;
 }
 
+.nav {
+float: right;
+width: 200px;
+height: 300px;
+background-color: #B20F00;
+color: #0AFDFF;
+}
+
+.nav li {
+padding: 20px;
+}
+
+
 .first-post img {
 width: 50%;
 height: 30%;
+float:left;
 }
 
 .first-post h2 {
@@ -28,7 +42,7 @@ color: #03E8AA;
 .second-post img {
 width: 50%;
 height: 30%;
-
+float:left;
 }
 
 .second-post h2 {
