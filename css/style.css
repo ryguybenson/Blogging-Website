@@ -1,10 +1,11 @@
 html {
   text-align: center;
+  background-color: #0378FF;
 }
 
 .head-content {
   font-size: 25px;
-  color: maroon;
+  color: #0AFDFF;
 }
 
 .first-post img {
@@ -12,11 +13,16 @@ width: 50%;
 height: 30%;
 }
 
+.first-post h2 {
+  color: #0AFDFF;
+}
+
 .first-post {
 font-style: italic;
 font-size: 20px;
 padding-top: 25px;
 padding-bottom: 25px;
+color: #03E8AA;
 }
 
 .second-post img {
@@ -25,12 +31,16 @@ height: 30%;
 
 }
 
+.second-post h2 {
+  color: #0AFDFF;
+}
 
 .second-post {
 font-style: italic;
 font-size: 20px;
 padding-top: 25px;
 padding-bottom: 25px;
+color: #03E8AA;
 }
 
 .about-me h2 {font-size: 28px;}
