@@ -48,9 +48,9 @@ color: #03E8AA;
 .me {font-style: italic;}
 
 .about-me {
-  border: 3px solid maroon;
-  text-shadow: 10px 10px 10px maroon;
-  color: maroon;
+  border: 3px solid #03FF73;
+  text-shadow: 10px 10px 10px #B20F00;
+  color: #03FF73;
   font-size: 25px;
   margin-top: 25px;
 }
